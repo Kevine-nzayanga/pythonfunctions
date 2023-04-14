@@ -17,3 +17,4 @@ def multiply (a,b):
 def remainder (a,b):
     rem = a%b
     return rem
+
